@@ -14,10 +14,10 @@ The game validates moves according to Chess rules and prevents players from maki
 ## Project Structure
 
 Chess-Game/
-├── main.cpp              # Complete source code
-├── chess_save.txt        # Auto-generated save file
-├── README.md             # Project documentation
-└── Project Report.pdf    # Optional project report
+- ├── main.cpp              # Complete source code
+- ├── chess_save.txt        # Auto-generated save file
+- ├── README.md             # Project documentation
+- └── Project Report.pdf    # Optional project report
 
 ---
 
